@@ -1,4 +1,4 @@
-# Web Application Penetration Testing: Command Injection Lab.
+# Web Application Penetration Testing: Command Injection Lab
 
 ## Project overview
 : This project demonstrates the discovery and exploitation of a Command Injection Vulnerability within a web application environment (DVWA). The goal was to achieve Remote Code Execution (RCE) and perform post-exploitation reconnaissance.
